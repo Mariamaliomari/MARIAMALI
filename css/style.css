@@ -26,11 +26,12 @@ h1{
     padding-left: 20px;
   }
   body{
-    background-color: lightblue;
+  
     margin: auto;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3i3TdK9hE2PwOw86qqH4QY0l09NVB0PIlCg&usqp=CAU)
   }
   div{
-    background-color: lightpink;
+    background-color:lightcyan;
     text-indent: 50px;
     
 }
